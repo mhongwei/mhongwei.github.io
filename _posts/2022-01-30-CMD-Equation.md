@@ -1,5 +1,6 @@
 ---
 toc: true
+math: true
 tags: [markdown, equation]
 author:
   - GuangYu Li
