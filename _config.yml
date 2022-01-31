@@ -13,7 +13,10 @@
 
 
 
-
+## !USE TEXT THEME
+theme: jekyll-text-theme # Gem-based Jekyll Themes
+# remote_theme: kitian616/jekyll-TeXt-theme # Jekyll Remote Theme, see https://github.com/benbalter/jekyll-remote-theme for more information.
+#
 ## => Site Settings
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
@@ -24,8 +27,7 @@ title   : Nature_YY
 description: > # this means to ignore newlines until "Language & timezone"
   Nature GO GO GO
   
-# Theme
-theme: jekyll-text-theme
+
 
 ## => Language and Timezone
 ##############################
