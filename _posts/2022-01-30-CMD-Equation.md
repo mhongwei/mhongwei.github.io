@@ -1,13 +1,8 @@
 ---
-layout: post
 toc: true
-math: true
-title: "math equation"
-categories: junk
-tags: [markdown, css, html]
+tags: [markdown, equation]
 author:
-  - Bart Simpson
-  - Nelson Mandela Muntz
+  - GuangYu Li
 ---
 
 
